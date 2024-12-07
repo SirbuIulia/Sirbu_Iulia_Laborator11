@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Sirbu_Iulia_Lab2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\LibraryWebAPI\\LibraryWebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\GrpcCustomersService\\GrpcCustomersService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

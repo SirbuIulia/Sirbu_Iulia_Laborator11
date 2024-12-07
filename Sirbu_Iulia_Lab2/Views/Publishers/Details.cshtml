@@ -1,0 +1,74 @@
+﻿@model Sirbu_Iulia_Lab2.Models.Publisher
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Publisher Details</h1>
+<hr />
+
+<div>
+    <h4>Publisher</h4>
+    <dl class="row">
+        <dt class="col-sm-2">
+            Name
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PublisherName)
+        </dd>
+        <dt class="col-sm-2">
+            Address
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Adress)
+        </dd>
+    </dl>
+</div>
+
+@if (Model.PublishedBooks != null && Model.PublishedBooks.Any())
+{
+    <h3>Books Published</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Price</th>
+                <th>Orders</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var publishedBook in Model.PublishedBooks)
+            {
+                var book = publishedBook.Book;
+                <tr>
+                    <td>@book.Title</td>
+                    <td>@book.Author</td>
+                    <td>@book.Price.ToString("C")</td>
+                    <td>
+                        @if (book.Orders != null && book.Orders.Any())
+                        {
+                            foreach (var order in book.Orders)
+                            {
+                                <div>
+                                    Customer: @order.Customer.Name<br />
+                                    Order Date: @order.OrderDate.ToShortDateString()
+                                </div>
+                            }
+                        }
+                        else
+                        {
+                            <span>No orders</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No books published by this publisher.</p>
+}
+
+<a asp-action="Index" class="btn btn-primary">Back to List</a>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sirbu_Iulia_Lab2.props" />
+</Project>

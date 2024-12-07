@@ -1,0 +1,1437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\controllers\\customersgrpccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:controllers\\customersgrpccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496E3278-C704-4A4C-BC23-1C49CF7CB492}|..\\GrpcCustomersService\\GrpcCustomersService.csproj|c:\\lab_mpa\\lab2\\grpccustomersservice\\services\\grpccrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496E3278-C704-4A4C-BC23-1C49CF7CB492}|..\\GrpcCustomersService\\GrpcCustomersService.csproj|c:\\lab_mpa\\lab2\\grpccustomersservice\\grpccustomersservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496E3278-C704-4A4C-BC23-1C49CF7CB492}|..\\GrpcCustomersService\\GrpcCustomersService.csproj|c:\\lab_mpa\\lab2\\grpccustomersservice\\grpccustomersservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\obj\\Debug\\net8.0\\Protos\\CustomersCRUDGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\Protos\\CustomersCRUDGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\customersgrpc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\customersgrpc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\customersgrpc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\customersgrpc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AC75E1-0A4A-42EB-8520-CEEF58F2248E}|..\\LibraryModel\\LibraryModel.csproj|c:\\lab_mpa\\lab2\\librarymodel\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\sirbu_iulia_lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:sirbu_iulia_lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9D2D4-0B30-4C6F-8A22-EF03623B2499}|..\\LibraryWebAPI\\LibraryWebAPI.csproj|c:\\lab_mpa\\lab2\\librarywebapi\\librarywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AC75E1-0A4A-42EB-8520-CEEF58F2248E}|..\\LibraryModel\\LibraryModel.csproj|c:\\lab_mpa\\lab2\\librarymodel\\librarymodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496E3278-C704-4A4C-BC23-1C49CF7CB492}|..\\GrpcCustomersService\\GrpcCustomersService.csproj|c:\\lab_mpa\\lab2\\grpccustomersservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9D2D4-0B30-4C6F-8A22-EF03623B2499}|..\\LibraryWebAPI\\LibraryWebAPI.csproj|c:\\lab_mpa\\lab2\\librarywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496E3278-C704-4A4C-BC23-1C49CF7CB492}|..\\GrpcCustomersService\\GrpcCustomersService.csproj|c:\\lab_mpa\\lab2\\grpccustomersservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9D2D4-0B30-4C6F-8A22-EF03623B2499}|..\\LibraryWebAPI\\LibraryWebAPI.csproj|c:\\lab_mpa\\lab2\\librarywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9D2D4-0B30-4C6F-8A22-EF03623B2499}|..\\LibraryWebAPI\\LibraryWebAPI.csproj|c:\\lab_mpa\\lab2\\librarywebapi\\librarywebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\migrations\\20241207091952_ordermodify.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:migrations\\20241207091952_ordermodify.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\migrations\\20241207081733_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:migrations\\20241207081733_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\migrations\\20241207082442_authorcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:migrations\\20241207082442_authorcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\migrations\\20241207084151_author.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:migrations\\20241207084151_author.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\migrations\\librarycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:migrations\\librarycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\migrations\\20241207101924_extendedmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:migrations\\20241207101924_extendedmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\migrations\\20241207111829_city.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:migrations\\20241207111829_city.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AC75E1-0A4A-42EB-8520-CEEF58F2248E}|..\\LibraryModel\\LibraryModel.csproj|c:\\lab_mpa\\lab2\\librarymodel\\models\\publishedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9D2D4-0B30-4C6F-8A22-EF03623B2499}|..\\LibraryWebAPI\\LibraryWebAPI.csproj|c:\\lab_mpa\\lab2\\librarywebapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AC75E1-0A4A-42EB-8520-CEEF58F2248E}|..\\LibraryModel\\LibraryModel.csproj|c:\\lab_mpa\\lab2\\librarymodel\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AC75E1-0A4A-42EB-8520-CEEF58F2248E}|..\\LibraryModel\\LibraryModel.csproj|c:\\lab_mpa\\lab2\\librarymodel\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AC75E1-0A4A-42EB-8520-CEEF58F2248E}|..\\LibraryModel\\LibraryModel.csproj|c:\\lab_mpa\\lab2\\librarymodel\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AC75E1-0A4A-42EB-8520-CEEF58F2248E}|..\\LibraryModel\\LibraryModel.csproj|c:\\lab_mpa\\lab2\\librarymodel\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AC75E1-0A4A-42EB-8520-CEEF58F2248E}|..\\LibraryModel\\LibraryModel.csproj|c:\\lab_mpa\\lab2\\librarymodel\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AC75E1-0A4A-42EB-8520-CEEF58F2248E}|..\\LibraryModel\\LibraryModel.csproj|c:\\lab_mpa\\lab2\\librarymodel\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AC75E1-0A4A-42EB-8520-CEEF58F2248E}|..\\LibraryModel\\LibraryModel.csproj|c:\\lab_mpa\\lab2\\librarymodel\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\customersgrpc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\customersgrpc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\publishers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\publishers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\data\\dbinititializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:data\\dbinititializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496E3278-C704-4A4C-BC23-1C49CF7CB492}|..\\GrpcCustomersService\\GrpcCustomersService.csproj|c:\\lab_mpa\\lab2\\grpccustomersservice\\protos\\customerscrud.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\protos\\customerscrud.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:protos\\customerscrud.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\customersgrpc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\customersgrpc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibraryContext_ab6d6c10_e4c3_4fe2_a5ca_4ecdf71d03b5/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibraryContext_ab6d6c10_e4c3_4fe2_a5ca_4ecdf71d03b5/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibraryContext_ab6d6c10_e4c3_4fe2_a5ca_4ecdf71d03b5/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibraryContext_ab6d6c10_e4c3_4fe2_a5ca_4ecdf71d03b5/True/SqlTable/dbo.Customer.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\models\\rolemodification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:models\\rolemodification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\models\\roleedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:models\\roleedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\roles\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\roles\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\roles\\update.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\roles\\update.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\home\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\home\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\Identity\\20241207142440_identityscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\Identity\\20241207142440_identityscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\areas\\identity\\data\\identitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:areas\\identity\\data\\identitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\migrations\\20241207082442_authorcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:migrations\\20241207082442_authorcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\Author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|c:\\lab_mpa\\lab2\\sirbu_iulia_lab2\\migrations\\20241207081733_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D1B7A3-B162-4DC4-A9AD-228CC5F8577D}|Sirbu_Iulia_Lab2.csproj|solutionrelative:migrations\\20241207081733_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\Genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GrpcCustomersService",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "RelativeDocumentMoniker": "..\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "RelativeToolTip": "..\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T19:28:28.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomersCRUDGrpc.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\obj\\Debug\\net8.0\\Protos\\CustomersCRUDGrpc.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Protos\\CustomersCRUDGrpc.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\obj\\Debug\\net8.0\\Protos\\CustomersCRUDGrpc.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\Protos\\CustomersCRUDGrpc.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAvwIkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:21:13.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersGrpcController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\CustomersGrpcController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersGrpcController.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\CustomersGrpcController.cs",
+              "RelativeToolTip": "Controllers\\CustomersGrpcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:57:07.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\CustomersGrpc\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomersGrpc\\Delete.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\CustomersGrpc\\Delete.cshtml",
+              "RelativeToolTip": "Views\\CustomersGrpc\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T16:01:04.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\LibraryModel\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "..\\LibraryModel\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\LibraryModel\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "..\\LibraryModel\\Data\\LibraryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:17:40.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GrpcCrudService.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\GrpcCustomersService\\Services\\GrpcCrudService.cs",
+              "RelativeDocumentMoniker": "..\\GrpcCustomersService\\Services\\GrpcCrudService.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\GrpcCustomersService\\Services\\GrpcCrudService.cs",
+              "RelativeToolTip": "..\\GrpcCustomersService\\Services\\GrpcCrudService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:55:40.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\CustomersGrpc\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomersGrpc\\Edit.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\CustomersGrpc\\Edit.cshtml",
+              "RelativeToolTip": "Views\\CustomersGrpc\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T16:00:35.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GrpcCustomersService",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "RelativeDocumentMoniker": "..\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "RelativeToolTip": "..\\GrpcCustomersService\\GrpcCustomersService.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T15:23:22.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sirbu_Iulia_Lab2",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Sirbu_Iulia_Lab2.csproj",
+              "RelativeDocumentMoniker": "Sirbu_Iulia_Lab2.csproj",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Sirbu_Iulia_Lab2.csproj",
+              "RelativeToolTip": "Sirbu_Iulia_Lab2.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T13:44:37.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryWebAPI",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "RelativeDocumentMoniker": "..\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "RelativeToolTip": "..\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T18:15:47.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:29:39.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibraryModel",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\LibraryModel\\LibraryModel.csproj",
+              "RelativeDocumentMoniker": "..\\LibraryModel\\LibraryModel.csproj",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\LibraryModel\\LibraryModel.csproj",
+              "RelativeToolTip": "..\\LibraryModel\\LibraryModel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T18:24:42.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\GrpcCustomersService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\GrpcCustomersService\\appsettings.json",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\GrpcCustomersService\\appsettings.json",
+              "RelativeToolTip": "..\\GrpcCustomersService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T18:20:55.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\LibraryWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\LibraryWebAPI\\appsettings.json",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\LibraryWebAPI\\appsettings.json",
+              "RelativeToolTip": "..\\LibraryWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T18:22:19.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T08:10:50.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\GrpcCustomersService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GrpcCustomersService\\Program.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\GrpcCustomersService\\Program.cs",
+              "RelativeToolTip": "..\\GrpcCustomersService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:51:55.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LibraryWebAPI",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "RelativeDocumentMoniker": "..\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "RelativeToolTip": "..\\LibraryWebAPI\\LibraryWebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T18:15:59.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:24:24.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\LibraryWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LibraryWebAPI\\Program.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\LibraryWebAPI\\Program.cs",
+              "RelativeToolTip": "..\\LibraryWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:10:26.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241207091952_OrderModify.Designer.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207091952_OrderModify.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241207091952_OrderModify.Designer.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207091952_OrderModify.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241207091952_OrderModify.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:14:25.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241207081733_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207081733_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241207081733_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207081733_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241207081733_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:09:48.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241207082442_AuthorCreate.Designer.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207082442_AuthorCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241207082442_AuthorCreate.Designer.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207082442_AuthorCreate.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241207082442_AuthorCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:09:38.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241207084151_Author.Designer.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207084151_Author.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241207084151_Author.Designer.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207084151_Author.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241207084151_Author.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:09:43.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LibraryContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\LibraryContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\LibraryContextModelSnapshot.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\LibraryContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\LibraryContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:13:31.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241207101924_ExtendedModel.Designer.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207101924_ExtendedModel.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241207101924_ExtendedModel.Designer.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207101924_ExtendedModel.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241207101924_ExtendedModel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:13:10.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241207111829_City.Designer.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207111829_City.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241207111829_City.Designer.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207111829_City.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241207111829_City.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:12:40.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T17:12:12.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T08:31:57.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T15:01:13.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Create.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T15:02:08.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PublishedBook.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\PublishedBook.cs",
+              "RelativeDocumentMoniker": "..\\LibraryModel\\Models\\PublishedBook.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\PublishedBook.cs",
+              "RelativeToolTip": "..\\LibraryModel\\Models\\PublishedBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:14:37.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\LibraryWebAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "..\\LibraryWebAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\LibraryWebAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "..\\LibraryWebAPI\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:48:52.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:35:44.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PublishersController.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "Controllers\\PublishersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:58:53.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:28:52.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAkwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:00:30.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:17:00.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "..\\LibraryModel\\Models\\Author.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\Author.cs",
+              "RelativeToolTip": "..\\LibraryModel\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:14:33.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "..\\LibraryModel\\Models\\Book.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\Book.cs",
+              "RelativeToolTip": "..\\LibraryModel\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:14:54.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\LibraryModel\\Models\\Customer.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\Customer.cs",
+              "RelativeToolTip": "..\\LibraryModel\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:13:26.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "..\\LibraryModel\\Models\\Genre.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\Genre.cs",
+              "RelativeToolTip": "..\\LibraryModel\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:14:44.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\City.cs",
+              "RelativeDocumentMoniker": "..\\LibraryModel\\Models\\City.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\City.cs",
+              "RelativeToolTip": "..\\LibraryModel\\Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:15:21.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "..\\LibraryModel\\Models\\Publisher.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\Publisher.cs",
+              "RelativeToolTip": "..\\LibraryModel\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:16:52.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "..\\LibraryModel\\Models\\Order.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\LibraryModel\\Models\\Order.cs",
+              "RelativeToolTip": "..\\LibraryModel\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:15:41.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T13:40:26.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T13:39:45.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T13:39:49.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T13:39:41.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T13:40:23.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\CustomersGrpc\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomersGrpc\\Create.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\CustomersGrpc\\Create.cshtml",
+              "RelativeToolTip": "Views\\CustomersGrpc\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T16:00:10.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Publishers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Publishers\\Create.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Publishers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Publishers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T16:30:04.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DbInititializer.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Data\\DbInititializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInititializer.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Data\\DbInititializer.cs",
+              "RelativeToolTip": "Data\\DbInititializer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:19:58.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "customersCRUD.proto",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\GrpcCustomersService\\Protos\\customersCRUD.proto",
+              "RelativeDocumentMoniker": "..\\GrpcCustomersService\\Protos\\customersCRUD.proto",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\GrpcCustomersService\\Protos\\customersCRUD.proto",
+              "RelativeToolTip": "..\\GrpcCustomersService\\Protos\\customersCRUD.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-12-07T15:23:10.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "customersCRUD.proto",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Protos\\customersCRUD.proto",
+              "RelativeDocumentMoniker": "Protos\\customersCRUD.proto",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Protos\\customersCRUD.proto",
+              "RelativeToolTip": "Protos\\customersCRUD.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-12-07T15:56:02.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\CustomersGrpc\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomersGrpc\\Index.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\CustomersGrpc\\Index.cshtml",
+              "RelativeToolTip": "Views\\CustomersGrpc\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T15:59:37.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "dbo.AspNetUserRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibraryContext_ab6d6c10_e4c3_4fe2_a5ca_4ecdf71d03b5/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "dbo.AspNetUserRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-07T15:16:34.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibraryContext_ab6d6c10_e4c3_4fe2_a5ca_4ecdf71d03b5/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-07T15:17:02.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "dbo.AspNetRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibraryContext_ab6d6c10_e4c3_4fe2_a5ca_4ecdf71d03b5/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-07T15:16:19.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "dbo.Customer [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibraryContext_ab6d6c10_e4c3_4fe2_a5ca_4ecdf71d03b5/True/SqlTable/dbo.Customer.sql",
+              "ToolTip": "dbo.Customer [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-07T15:15:57.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClaimsController.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Controllers\\ClaimsController.cs",
+              "RelativeToolTip": "Controllers\\ClaimsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:55:03.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RoleModification.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\RoleModification.cs",
+              "RelativeDocumentMoniker": "Models\\RoleModification.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\RoleModification.cs",
+              "RelativeToolTip": "Models\\RoleModification.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:04:48.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RoleEdit.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\RoleEdit.cs",
+              "RelativeDocumentMoniker": "Models\\RoleEdit.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\RoleEdit.cs",
+              "RelativeToolTip": "Models\\RoleEdit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:04:14.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Roles\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Update.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Roles\\Update.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Update.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwDAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T15:03:33.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Roles\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Update.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Roles\\Update.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T15:03:08.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Claims\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Claims\\Create.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Claims\\Create.cshtml",
+              "RelativeToolTip": "Views\\Claims\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T14:56:35.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Claims\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Claims\\Index.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Claims\\Index.cshtml",
+              "RelativeToolTip": "Views\\Claims\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T14:55:44.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:46:15.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "wwwroot\\js\\chat.js",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-07T13:53:54.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Home\\Chat.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Chat.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Home\\Chat.cshtml",
+              "RelativeToolTip": "Views\\Home\\Chat.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T13:51:01.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20241207142440_identityscript.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\Identity\\20241207142440_identityscript.cs",
+              "RelativeDocumentMoniker": "Migrations\\Identity\\20241207142440_identityscript.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\Identity\\20241207142440_identityscript.cs",
+              "RelativeToolTip": "Migrations\\Identity\\20241207142440_identityscript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:24:40.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IdentityContext.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Areas\\Identity\\Data\\IdentityContext.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\IdentityContext.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Areas\\Identity\\Data\\IdentityContext.cs",
+              "RelativeToolTip": "Areas\\Identity\\Data\\IdentityContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:17:17.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-07T14:03:02.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T14:06:47.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Authors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Edit.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Authors\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Edit.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAMBdwAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T08:31:12.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Authors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Index.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Authors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAMBdwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T08:31:35.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Authors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Details.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Authors\\Details.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T08:31:00.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Authors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Delete.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Authors\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T08:30:47.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Authors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Create.cshtml",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Views\\Authors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Create.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T08:30:38.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:08:19.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20241207082442_AuthorCreate.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207082442_AuthorCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241207082442_AuthorCreate.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207082442_AuthorCreate.cs",
+              "RelativeToolTip": "Migrations\\20241207082442_AuthorCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:24:42.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:23:15.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20241207081733_InitialCreate.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207081733_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241207081733_InitialCreate.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Migrations\\20241207081733_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241207081733_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:17:34.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:14:39.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:09:18.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:09:54.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:10:27.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "O1RIcXlgBx2QEQEkl74AGywps9rhtMCG6h7q1LuRqCc=",
+  "Source": "GrpcCustomersService",
+  "BasePath": "_content/GrpcCustomersService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

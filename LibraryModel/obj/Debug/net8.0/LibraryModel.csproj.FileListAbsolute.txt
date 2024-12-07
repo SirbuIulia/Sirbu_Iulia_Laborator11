@@ -1,0 +1,14 @@
+C:\lab_MPA\LAB2\LibraryModel\bin\Debug\net8.0\LibraryModel.deps.json
+C:\lab_MPA\LAB2\LibraryModel\bin\Debug\net8.0\LibraryModel.runtimeconfig.json
+C:\lab_MPA\LAB2\LibraryModel\bin\Debug\net8.0\LibraryModel.dll
+C:\lab_MPA\LAB2\LibraryModel\bin\Debug\net8.0\LibraryModel.pdb
+C:\lab_MPA\LAB2\LibraryModel\obj\Debug\net8.0\LibraryModel.csproj.AssemblyReference.cache
+C:\lab_MPA\LAB2\LibraryModel\obj\Debug\net8.0\LibraryModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\lab_MPA\LAB2\LibraryModel\obj\Debug\net8.0\LibraryModel.AssemblyInfoInputs.cache
+C:\lab_MPA\LAB2\LibraryModel\obj\Debug\net8.0\LibraryModel.AssemblyInfo.cs
+C:\lab_MPA\LAB2\LibraryModel\obj\Debug\net8.0\LibraryModel.csproj.CoreCompileInputs.cache
+C:\lab_MPA\LAB2\LibraryModel\obj\Debug\net8.0\LibraryModel.dll
+C:\lab_MPA\LAB2\LibraryModel\obj\Debug\net8.0\refint\LibraryModel.dll
+C:\lab_MPA\LAB2\LibraryModel\obj\Debug\net8.0\LibraryModel.pdb
+C:\lab_MPA\LAB2\LibraryModel\obj\Debug\net8.0\LibraryModel.genruntimeconfig.cache
+C:\lab_MPA\LAB2\LibraryModel\obj\Debug\net8.0\ref\LibraryModel.dll
