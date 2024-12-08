@@ -282,6 +282,7 @@ C:\lab_MPA\LAB2\Sirbu_Iulia_Lab2\obj\Debug\net8.0\Sirbu_Iulia_Lab2.MvcApplicatio
 C:\lab_MPA\LAB2\Sirbu_Iulia_Lab2\obj\Debug\net8.0\Sirbu_Iulia_Lab2.MvcApplicationPartsAssemblyInfo.cache
 C:\lab_MPA\LAB2\Sirbu_Iulia_Lab2\obj\Debug\net8.0\Sirbu_Iulia_Lab2.RazorAssemblyInfo.cache
 C:\lab_MPA\LAB2\Sirbu_Iulia_Lab2\obj\Debug\net8.0\Sirbu_Iulia_Lab2.RazorAssemblyInfo.cs
+C:\lab_MPA\LAB2\Sirbu_Iulia_Lab2\obj\Debug\net8.0\Sirbu_Iulia_Lab2.sourcelink.json
 C:\lab_MPA\LAB2\Sirbu_Iulia_Lab2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\lab_MPA\LAB2\Sirbu_Iulia_Lab2\obj\Debug\net8.0\scopedcss\bundle\Sirbu_Iulia_Lab2.styles.css
 C:\lab_MPA\LAB2\Sirbu_Iulia_Lab2\obj\Debug\net8.0\scopedcss\projectbundle\Sirbu_Iulia_Lab2.bundle.scp.css

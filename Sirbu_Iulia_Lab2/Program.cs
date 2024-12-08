@@ -7,7 +7,7 @@ using Sirbu_Iulia_Lab2.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Register DbContexts
+
 builder.Services.AddDbContext<LibraryContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("LibraryContext")
     ?? throw new InvalidOperationException("Connection string 'LibraryContext' not found.")));
@@ -16,7 +16,7 @@ builder.Services.AddDbContext<IdentityContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("IdentityContextConnection")
     ?? throw new InvalidOperationException("Connection string 'IdentityContext' not found.")));
 
-// Register Identity
+
 builder.Services.AddDefaultIdentity<IdentityUser>(options =>
 {
     options.SignIn.RequireConfirmedAccount = true;
@@ -29,7 +29,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options =>
 .AddRoles<IdentityRole>()
 .AddEntityFrameworkStores<IdentityContext>();
 
-// Authorization policies
+
 builder.Services.AddAuthorization(opts =>
 {
     opts.AddPolicy("OnlySales", policy =>
@@ -50,7 +50,12 @@ builder.Services.ConfigureApplicationCookie(opts =>
 
 // Register MVC and SignalR
 builder.Services.AddControllersWithViews();
-builder.Services.AddSignalR();
+builder.Services.AddSignalR(options =>
+{
+    options.KeepAliveInterval = TimeSpan.FromSeconds(10); 
+    options.ClientTimeoutInterval = TimeSpan.FromSeconds(20); 
+});
+
 builder.Services.AddRazorPages();
 
 var app = builder.Build();
@@ -83,6 +88,7 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 app.MapHub<ChatHub>("/Chat");
+app.MapHub<NotificationHub>("/Notification");
 app.MapRazorPages();
 
 app.Run();

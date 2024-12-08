@@ -244,6 +244,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzR3JwY1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/lab_MPA/LAB2/Sirbu_Iulia_Lab2/Views/CustomersGrpc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzR3JwY1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/lab_MPA/LAB2/Sirbu_Iulia_Lab2/Views/CustomersGrpc/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzR3JwY1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -278,6 +282,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/lab_MPA/LAB2/Sirbu_Iulia_Lab2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/lab_MPA/LAB2/Sirbu_Iulia_Lab2/Views/Home/Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/lab_MPA/LAB2/Sirbu_Iulia_Lab2/Views/Home/Privacy.cshtml]

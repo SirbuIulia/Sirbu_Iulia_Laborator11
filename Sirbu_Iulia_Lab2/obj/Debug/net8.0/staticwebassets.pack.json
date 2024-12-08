@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\chat.js"
     },
     {
+      "Id": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\wwwroot\\js\\notification.js",
+      "PackagePath": "staticwebassets\\js\\notification.js"
+    },
+    {
       "Id": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
       "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
     },

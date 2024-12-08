@@ -75,6 +75,7 @@ C:\lab_MPA\LAB2\GrpcCustomersService\obj\Debug\net8.0\GrpcCustomersService.Assem
 C:\lab_MPA\LAB2\GrpcCustomersService\obj\Debug\net8.0\GrpcCustomersService.AssemblyInfo.cs
 C:\lab_MPA\LAB2\GrpcCustomersService\obj\Debug\net8.0\GrpcCustomersService.csproj.CoreCompileInputs.cache
 C:\lab_MPA\LAB2\GrpcCustomersService\obj\Debug\net8.0\GrpcCustomersService.MvcApplicationPartsAssemblyInfo.cache
+C:\lab_MPA\LAB2\GrpcCustomersService\obj\Debug\net8.0\GrpcCustomersService.sourcelink.json
 C:\lab_MPA\LAB2\GrpcCustomersService\obj\Debug\net8.0\scopedcss\bundle\GrpcCustomersService.styles.css
 C:\lab_MPA\LAB2\GrpcCustomersService\obj\Debug\net8.0\staticwebassets.build.json
 C:\lab_MPA\LAB2\GrpcCustomersService\obj\Debug\net8.0\staticwebassets.development.json

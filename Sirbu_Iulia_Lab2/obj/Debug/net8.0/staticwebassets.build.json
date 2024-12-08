@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N73RH5KLU6Rp/OGwLxYu5Mb5atBbZRW6Ix5aHZUKD2Y=",
+  "Hash": "MnikKYJsbrNu9wLUX0e2iiYhypC616HqG/UjdpUDnIA=",
   "Source": "Sirbu_Iulia_Lab2",
   "BasePath": "_content/Sirbu_Iulia_Lab2",
   "Mode": "Default",
@@ -120,6 +120,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\chat.js"
+    },
+    {
+      "Identity": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\wwwroot\\js\\notification.js",
+      "SourceId": "Sirbu_Iulia_Lab2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\wwwroot\\",
+      "BasePath": "_content/Sirbu_Iulia_Lab2",
+      "RelativePath": "js/notification#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pe6s3x1dfa",
+      "Integrity": "cWbf9JCIvHIAdgGckCdLDvsCfCS0LUiUn4rcGYTQweU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\notification.js"
     },
     {
       "Identity": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
@@ -5050,7 +5071,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:47:51 GMT"
+          "Value": "Sun, 08 Dec 2024 14:33:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5095,7 +5116,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:47:51 GMT"
+          "Value": "Sun, 08 Dec 2024 14:33:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5106,6 +5127,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-kNUbCVVwg/8VLU24kGoBl9XQjqUaMsUVSRDYi8gORRA="
+        }
+      ]
+    },
+    {
+      "Route": "js/notification.js",
+      "AssetFile": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\wwwroot\\js\\notification.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cWbf9JCIvHIAdgGckCdLDvsCfCS0LUiUn4rcGYTQweU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 14:43:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cWbf9JCIvHIAdgGckCdLDvsCfCS0LUiUn4rcGYTQweU="
+        }
+      ]
+    },
+    {
+      "Route": "js/notification.pe6s3x1dfa.js",
+      "AssetFile": "C:\\lab_MPA\\LAB2\\Sirbu_Iulia_Lab2\\wwwroot\\js\\notification.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cWbf9JCIvHIAdgGckCdLDvsCfCS0LUiUn4rcGYTQweU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 14:43:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pe6s3x1dfa"
+        },
+        {
+          "Name": "label",
+          "Value": "js/notification.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cWbf9JCIvHIAdgGckCdLDvsCfCS0LUiUn4rcGYTQweU="
         }
       ]
     },
@@ -10052,7 +10155,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 19:34:32 GMT"
+          "Value": "Sun, 08 Dec 2024 15:40:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10089,7 +10192,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 19:34:32 GMT"
+          "Value": "Sun, 08 Dec 2024 15:40:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10134,7 +10237,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 19:34:32 GMT"
+          "Value": "Sun, 08 Dec 2024 15:40:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10179,7 +10282,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 19:34:32 GMT"
+          "Value": "Sun, 08 Dec 2024 15:40:05 GMT"
         },
         {
           "Name": "Cache-Control",

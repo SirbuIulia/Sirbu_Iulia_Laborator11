@@ -4,6 +4,7 @@ using System.Diagnostics;
 using Microsoft.EntityFrameworkCore;
 using Sirbu_Iulia_Lab2.Data;
 using Sirbu_Iulia_Lab2.Models.LibraryViewModels;
+using Microsoft.AspNetCore.Authentication;
 
 namespace Sirbu_Iulia_Lab2.Controllers
 {
@@ -26,6 +27,11 @@ namespace Sirbu_Iulia_Lab2.Controllers
         {
             return View();
         }
+        public IActionResult Notification()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

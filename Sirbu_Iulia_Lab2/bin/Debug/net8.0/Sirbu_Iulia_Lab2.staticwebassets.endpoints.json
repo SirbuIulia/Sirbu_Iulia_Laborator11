@@ -2249,7 +2249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 19:34:32 GMT"
+          "Value": "Sun, 08 Dec 2024 15:40:05 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2294,7 +2294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 19:34:32 GMT"
+          "Value": "Sun, 08 Dec 2024 15:40:05 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2495,7 +2495,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:47:51 GMT"
+          "Value": "Sun, 08 Dec 2024 14:33:39 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2540,13 +2540,95 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:47:51 GMT"
+          "Value": "Sun, 08 Dec 2024 14:33:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
           "Value": "sha256-kNUbCVVwg/8VLU24kGoBl9XQjqUaMsUVSRDYi8gORRA="
+        }
+      ]
+    },
+    {
+      "Route": "js/notification.js",
+      "AssetFile": "js/notification.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cWbf9JCIvHIAdgGckCdLDvsCfCS0LUiUn4rcGYTQweU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 14:43:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cWbf9JCIvHIAdgGckCdLDvsCfCS0LUiUn4rcGYTQweU="
+        }
+      ]
+    },
+    {
+      "Route": "js/notification.pe6s3x1dfa.js",
+      "AssetFile": "js/notification.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cWbf9JCIvHIAdgGckCdLDvsCfCS0LUiUn4rcGYTQweU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 14:43:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pe6s3x1dfa"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cWbf9JCIvHIAdgGckCdLDvsCfCS0LUiUn4rcGYTQweU="
+        },
+        {
+          "Name": "label",
+          "Value": "js/notification.js"
         }
       ]
     },

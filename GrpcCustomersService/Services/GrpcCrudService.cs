@@ -78,7 +78,7 @@ public class GrpcCrudService : CustomerService.CustomerServiceBase
             CustomerID = requestData.CustomerId,
             Name = requestData.Name,
             Adress = requestData.Adress,
-            // BirthDate = birthDate 
+            BirthDate = (DateTime)birthDate
 
         };
 

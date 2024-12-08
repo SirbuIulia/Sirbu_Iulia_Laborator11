@@ -28,13 +28,25 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\chat.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gw4bwaylez"},{"Name":"integrity","Value":"sha256-kNUbCVVwg/8VLU24kGoBl9XQjqUaMsUVSRDYi8gORRA="},{"Name":"label","Value":"_content/Sirbu_Iulia_Lab2/js/chat.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1047"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022kNUbCVVwg/8VLU24kGoBl9XQjqUaMsUVSRDYi8gORRA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 07 Dec 2024 14:47:51 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1047"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022kNUbCVVwg/8VLU24kGoBl9XQjqUaMsUVSRDYi8gORRA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 14:33:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Sirbu_Iulia_Lab2/js/chat.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\chat.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kNUbCVVwg/8VLU24kGoBl9XQjqUaMsUVSRDYi8gORRA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1047"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022kNUbCVVwg/8VLU24kGoBl9XQjqUaMsUVSRDYi8gORRA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 07 Dec 2024 14:47:51 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1047"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022kNUbCVVwg/8VLU24kGoBl9XQjqUaMsUVSRDYi8gORRA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 14:33:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Sirbu_Iulia_Lab2/js/notification.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\notification.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cWbf9JCIvHIAdgGckCdLDvsCfCS0LUiUn4rcGYTQweU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"878"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022cWbf9JCIvHIAdgGckCdLDvsCfCS0LUiUn4rcGYTQweU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 14:43:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Sirbu_Iulia_Lab2/js/notification.pe6s3x1dfa.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\notification.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pe6s3x1dfa"},{"Name":"integrity","Value":"sha256-cWbf9JCIvHIAdgGckCdLDvsCfCS0LUiUn4rcGYTQweU="},{"Name":"label","Value":"_content/Sirbu_Iulia_Lab2/js/notification.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"878"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022cWbf9JCIvHIAdgGckCdLDvsCfCS0LUiUn4rcGYTQweU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 14:43:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Sirbu_Iulia_Lab2/js/signalr/dist/browser/signalr.cqu3aupeo3.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\signalr\dist\browser\signalr.js'))</AssetFile>
@@ -760,13 +772,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Sirbu_Iulia_Lab2.cpespsy0de.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cAKEz9CFVA80G0oCpEeEUhOz/mHDNR16ohjRrp3h0KM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022cAKEz9CFVA80G0oCpEeEUhOz/mHDNR16ohjRrp3h0KM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 07 Dec 2024 19:34:32 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022cAKEz9CFVA80G0oCpEeEUhOz/mHDNR16ohjRrp3h0KM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 15:40:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Sirbu_Iulia_Lab2/Sirbu_Iulia_Lab2.cpespsy0de.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Sirbu_Iulia_Lab2.cpespsy0de.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cpespsy0de"},{"Name":"integrity","Value":"sha256-cAKEz9CFVA80G0oCpEeEUhOz/mHDNR16ohjRrp3h0KM="},{"Name":"label","Value":"_content/Sirbu_Iulia_Lab2/Sirbu_Iulia_Lab2.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022cAKEz9CFVA80G0oCpEeEUhOz/mHDNR16ohjRrp3h0KM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 07 Dec 2024 19:34:32 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022cAKEz9CFVA80G0oCpEeEUhOz/mHDNR16ohjRrp3h0KM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 15:40:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

@@ -93,5 +93,25 @@ namespace Sirbu_Iulia_Lab2.Controllers
             }
             return View(customer);
         }
+
+        [HttpGet]
+        public IActionResult Details(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var client = new CustomerService.CustomerServiceClient(channel);
+            var customer = client.Get(new CustomerId { Id = id.Value });
+
+            if (customer == null)
+            {
+                return NotFound();
+            }
+
+            return View(customer);
+        }
+
     }
 }

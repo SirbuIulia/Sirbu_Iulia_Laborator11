@@ -255,6 +255,7 @@ C:\lab_MPA\LAB2\LibraryWebAPI\obj\Debug\net8.0\LibraryWebAPI.AssemblyInfo.cs
 C:\lab_MPA\LAB2\LibraryWebAPI\obj\Debug\net8.0\LibraryWebAPI.csproj.CoreCompileInputs.cache
 C:\lab_MPA\LAB2\LibraryWebAPI\obj\Debug\net8.0\LibraryWebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\lab_MPA\LAB2\LibraryWebAPI\obj\Debug\net8.0\LibraryWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\lab_MPA\LAB2\LibraryWebAPI\obj\Debug\net8.0\LibraryWebAPI.sourcelink.json
 C:\lab_MPA\LAB2\LibraryWebAPI\obj\Debug\net8.0\scopedcss\bundle\LibraryWebAPI.styles.css
 C:\lab_MPA\LAB2\LibraryWebAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\lab_MPA\LAB2\LibraryWebAPI\obj\Debug\net8.0\staticwebassets.development.json
